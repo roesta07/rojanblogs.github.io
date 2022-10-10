@@ -1,6 +1,6 @@
 ---
 title: Consulting, Wiseyak 
-layout: single
+layout: splash
 author_profile: true
 permalink: /consultation/
 ---
