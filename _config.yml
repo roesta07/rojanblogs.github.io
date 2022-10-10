@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: false
+layout: splash
 
 # Build settings
 markdown: kramdown
