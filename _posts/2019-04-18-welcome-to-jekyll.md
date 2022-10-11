@@ -8,7 +8,7 @@ tags:
   - Jekyll
   - update
 ---
-$\beta$ This is beta spaxed
+$$\beta$$ This is beta spaxed
 
 $$\beta$$
 
