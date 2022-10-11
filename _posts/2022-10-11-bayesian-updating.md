@@ -25,7 +25,7 @@ Karl Popper refers to this occurrence as the [Idea of Falsification](https://en.
 $$ P(\theta|evidence)=\frac{P(\theta)*P(evidence|\theta)}{P(evidence)} $$
 
 If you peek at the right side of our equation; this side incorporates both
-our existing beliefs and the likelihood of the evidence (data);  $$P(\theta)$$ is our existing belief on $$ \theta $$ which is called a Prior and P($$ evidence|\theta $$) is our likelihood of the evidence. Thus the left side P( $$ \theta| evidence $$ )is our updated belief on $$ \theta $$. For instance,back to the above analogy; $\theta$ can be the believed form of the Earth today.
+our existing beliefs and the likelihood of the evidence (data);  $$P(\theta)$$ is our existing belief on $$ \theta $$ which is called a Prior and P($$ evidence|\theta $$) is our likelihood of the evidence. Thus the left side P( $$ \theta| evidence $$ )is our updated belief on $$ \theta $$. For instance,back to the above analogy; $$\theta$$ can be the believed form of the Earth today.
 
 
 ## Updating Beliefs about Ghost!! Just a toy example}
@@ -33,8 +33,9 @@ our existing beliefs and the likelihood of the evidence (data);  $$P(\theta)$$ i
 Assume you are moving into a new home; this is how the opening scene of the majority of horror films starts. You had some strange experiences and made the decision to keep watch every night for a few days to see what would happen.
 But how could we reflect these prevailing notions  mathematically; Using Bayesian approach, the unknown probability of ghost(p) would be treated as a random variable and given a distribution.Let's plot some of the Prior beliefs before we discuss its underlying distributions.
 
-<div> <img src="https://user-images.githubusercontent.com/63225055/195006574-999b4c84-aeac-4af7-b49a-2fbdb241a19d.png" width="820" class="inline"> </div>
-<div> <img src="assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
+<div class="center" > <img src="https://user-images.githubusercontent.com/63225055/195006574-999b4c84-aeac-4af7-b49a-2fbdb241a19d.png" width="820" class="inline"> </div>
+
+<div > <img src="assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
 
 
 ![prior_distributions](https://user-images.githubusercontent.com/63225055/195006574-999b4c84-aeac-4af7-b49a-2fbdb241a19d.png)
