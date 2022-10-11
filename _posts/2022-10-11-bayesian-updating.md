@@ -13,7 +13,6 @@ tags:
 
 # Context
 
-
 Each of us holds a set of beliefs that we have developed through our experiences. Every time we have to make a decision, we tend to base it on those belief i.e. our attitude towards the world at that given time. Time here is a very important dimension because with time we update our beliefs. Although the ability to always search for the motivation to change/update self-beliefs are important for us to make a better decision yet human factors like ego, blind superstition, etc comes as a tyrannical force to prevent us from changing or updating our self-beliefs.
 
 
@@ -29,6 +28,7 @@ our existing beliefs and the likelihood of the evidence (data);  $$P(\theta)$$ i
 
 
 ## Updating Beliefs about Ghost!! Just a toy example
+
 ### Scenario
 Assume you are moving into a new home; this is how the opening scene of the majority of horror films starts. You had some strange experiences and made the decision to keep watch every night for a few days to see what would happen.
 But how could we reflect these prevailing notions  mathematically; Using Bayesian approach, the unknown probability of ghost(p) would be treated as a random variable and given a distribution.Let's plot some of the Prior beliefs before we discuss its underlying distributions.
@@ -36,6 +36,8 @@ But how could we reflect these prevailing notions  mathematically; Using Bayesia
 
 <div > <img src="../assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
 *Fig: Prior Distributions*
+<br>
+<br>
 <br>
 The above plots are some of our prior distribution which will be explained below, the shaded region indicates that the mass of probability is in that region.
 
