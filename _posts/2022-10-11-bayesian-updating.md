@@ -60,7 +60,7 @@ This suggests that the existence of ghosts (p=1) is extremely implausible and th
 Let's now enter the monitoring phase and begin gathering and documenting each of our paranormal encounters. Every day is like flipping a coin (Bernoulli trials): if we experience some paranormal activity, we record 1; otherwise, we record 0.  See the mathematical instructions at the end of the article.
 
 
-<div class="center" ><img src="../assets/images/bayesian_updating/updating.png" width="720" class="inline"> </div>
+<div class="center" ><img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/bayesian_updating/updating.png" width="720" class="inline"> </div>
 *Fig: Updating our Beliefs*
 
 We begin with our preexisting belief about the ghost; if we have any paranormal experiences, such as discovering someone under the bed, we then shift our beliefs to the right (p=1), but because it is a bayesian shift, we obtain the full distribution. For instance, on Day 2, the dashed distribution represents our prior distribution whereas the solid-line distribution represents our updated belief also as known as Posterior distribution. But an intriguing fact is that we will use this posterior distribution as our prior distribution on day 3 while we monitor the data and revise our opinions.
@@ -71,7 +71,7 @@ We begin with our preexisting belief about the ghost; if we have any paranormal 
 The process of updating continues until day 9, which is the present. Using the same Bayesian formula we previously encountered, we compute our posterior distribution for every day.
 
 
-<div class="center" ><img src="../assets/images/bayesian_updating/change.png" width="500" class="inline"> </div>
+<div class="center" ><img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/bayesian_updating/change.png" width="500" class="inline"> </div>
 
 *Fig: Updated Beliefs*
 
@@ -92,9 +92,9 @@ Since everything that can be expressed mathematically can be coded into computer
 
 
 Using Bayesian Formula;
-$$P(p|X)=\frac{P(p)*P(X|p)}{P(p)} \quad \quad \quad \text{[X here is observed data]}$$ 
-
-We are interested in $$P(p|X)$$ which is our posterior distribution i.e probability of (p) that there is a ghost given the data (X) where X can take value either 0 or 1. 
+$$P(p|X)=\frac{P(p)*P(X|p)}{P(p)} \quad \quad \quad \text{[X here is observed data]} $$ 
+<br>
+We are interested in $$ P(p|X) $$ which is our posterior distribution i.e probability of (p) that there is a ghost given the data (X) where X can take value either 0 or 1. 
 
 Defining our Prior and Likelihoods:
 
