@@ -36,9 +36,8 @@ But how could we reflect these prevailing notions  mathematically; Using Bayesia
 
 <div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/bayesian_updating/prior_distributions.png?raw=true" width="820" class="inline"> </div>
 *Fig: Prior Distributions*
-<br>
-<br>
-<br>
+
+
 The above plots are some of our prior distribution which will be explained below, the shaded region indicates that the mass of probability is in that region.
 
 Prior from **Fig 1 (first from the left)** implies that I am new to the planet or that I have no awareness of these phenomena because no one has ever told me about them. The first prior is hence neutral and any chances from 0 to 1 is equally likely. However, we can do better because we all have some beliefs about the ghost; the rest of these priors suggest that we all hold certain beliefs about ghosts and their existence.
@@ -62,6 +61,7 @@ Let's now enter the monitoring phase and begin gathering and documenting each of
 
 <div class="center" ><img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/bayesian_updating/updating.png" width="720" class="inline"> </div>
 *Fig: Updating our Beliefs*
+
 
 We begin with our preexisting belief about the ghost; if we have any paranormal experiences, such as discovering someone under the bed, we then shift our beliefs to the right (p=1), but because it is a bayesian shift, we obtain the full distribution. For instance, on Day 2, the dashed distribution represents our prior distribution whereas the solid-line distribution represents our updated belief also as known as Posterior distribution. But an intriguing fact is that we will use this posterior distribution as our prior distribution on day 3 while we monitor the data and revise our opinions.
 
