@@ -34,7 +34,7 @@ Assume you are moving into a new home; this is how the opening scene of the majo
 But how could we reflect these prevailing notions  mathematically; Using Bayesian approach, the unknown probability of ghost(p) would be treated as a random variable and given a distribution.Let's plot some of the Prior beliefs before we discuss its underlying distributions.
 
 
-<div > <img src="../assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
+<div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/bayesian_updating/prior_distributions.png?raw=true" width="820" class="inline"> </div>
 *Fig: Prior Distributions*
 <br>
 <br>
