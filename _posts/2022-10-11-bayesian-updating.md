@@ -1,8 +1,7 @@
 ---
-title: "Bayesian Updating - Wisely "
+title: "Post: Bayesian Updating - Wisely "
 last_modified_at: 2016-03-09T16:20:02-05:00
 mathjax: true
-
 categories:
   - Blog
 tags:
