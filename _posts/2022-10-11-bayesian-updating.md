@@ -35,6 +35,7 @@ But how could we reflect these prevailing notions  mathematically; Using Bayesia
 
 <div><img src="assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
 
+![prior_distributions](https://user-images.githubusercontent.com/63225055/195006574-999b4c84-aeac-4af7-b49a-2fbdb241a19d.png)
 
 *Fig: Prior Distributions*
 
