@@ -25,23 +25,18 @@ Karl Popper refers to this occurrence as the [Idea of Falsification](https://en.
 $$ P(\theta|evidence)=\frac{P(\theta)*P(evidence|\theta)}{P(evidence)} $$
 
 If you peek at the right side of our equation; this side incorporates both
-our existing beliefs and the likelihood of the evidence (data);  $$P(\theta)$$ is our existing belief on $$ \theta $$ which is called a Prior and P($$ evidence|\theta  ) $$ is our likelihood of the evidence. Thus the left side P( $$ \theta| evidence $$ )is our updated belief on $$ \theta $$. For instance,back to the above analogy; $$\theta$$ can be the believed form of the Earth today.
+our existing beliefs and the likelihood of the evidence (data);  $$P(\theta)$$ is our existing belief on $$ \theta $$ which is called a Prior and P($$ evidence|\theta  ) $$ is our likelihood of the evidence. Thus the left side P( $$ \theta| evidence $$ )is our updated belief on $$ \theta $$ . For instance, back to the above analogy; $$ \theta $$  can be the believed form of the Earth today.
 
 
-## Updating Beliefs about Ghost!! Just a toy example}
+## Updating Beliefs about Ghost!! Just a toy example
 ### Scenario
 Assume you are moving into a new home; this is how the opening scene of the majority of horror films starts. You had some strange experiences and made the decision to keep watch every night for a few days to see what would happen.
 But how could we reflect these prevailing notions  mathematically; Using Bayesian approach, the unknown probability of ghost(p) would be treated as a random variable and given a distribution.Let's plot some of the Prior beliefs before we discuss its underlying distributions.
 
-<div class="center" > <img src="https://user-images.githubusercontent.com/63225055/195006574-999b4c84-aeac-4af7-b49a-2fbdb241a19d.png" width="820" class="inline"> </div>
 
-<div > <img src="assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
-
-
-![prior_distributions](https://user-images.githubusercontent.com/63225055/195006574-999b4c84-aeac-4af7-b49a-2fbdb241a19d.png)
-
+<div > <img src="../assets/images/bayesian_updating/prior_distributions.png" width="820" class="inline"> </div>
 *Fig: Prior Distributions*
-
+<br>
 The above plots are some of our prior distribution which will be explained below, the shaded region indicates that the mass of probability is in that region.
 
 Prior from **Fig 1 (first from the left)** implies that I am new to the planet or that I have no awareness of these phenomena because no one has ever told me about them. The first prior is hence neutral and any chances from 0 to 1 is equally likely. However, we can do better because we all have some beliefs about the ghost; the rest of these priors suggest that we all hold certain beliefs about ghosts and their existence.
@@ -63,7 +58,7 @@ This suggests that the existence of ghosts (p=1) is extremely implausible and th
 Let's now enter the monitoring phase and begin gathering and documenting each of our paranormal encounters. Every day is like flipping a coin (Bernoulli trials): if we experience some paranormal activity, we record 1; otherwise, we record 0.  See the mathematical instructions at the end of the article.
 
 
-<div><img src="assets/images/updating/updating.png?raw=true" width="720" class="inline"> </div>
+<div><img src="../assets/images/updating/updating.png?raw=true" width="720" class="inline"> </div>
 
 *Fig: Updating our Beliefs*
 
@@ -75,7 +70,7 @@ We begin with our preexisting belief about the ghost; if we have any paranormal 
 The process of updating continues until day 9, which is the present. Using the same Bayesian formula we previously encountered, we compute our posterior distribution for every day.
 
 
-<div><img src="assets/images/bayesian_updating/change.png?raw=true" width="820" class="inline"> </div>
+<div><img src="../assets/images/bayesian_updating/change.png?raw=true" width="820" class="inline"> </div>
 
 *Fig: Updated Beliefs*
 
