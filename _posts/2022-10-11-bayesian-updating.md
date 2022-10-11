@@ -86,12 +86,8 @@ Although there are many methods for computing posterior distribution (updated be
 
 Since everything that can be expressed mathematically can be coded into computers, we will attempt to express our beliefs through mathematical expressions.
 
-<br>
-<br>
 ### Beta-Bernoulli conjugacy
-
-
-Using Bayesian Formula;
+Using the Bayesian Formula;
 $$P(p|X)=\frac{P(p)*P(X|p)}{P(p)} \quad \quad \quad \text{[X here is observed data]} $$ 
 <br>
 We are interested in $$ P(p|X) $$ which is our posterior distribution i.e probability of (p) that there is a ghost given the data (X) where X can take value either 0 or 1. 
