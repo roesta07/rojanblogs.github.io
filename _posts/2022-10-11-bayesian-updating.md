@@ -45,7 +45,7 @@ Prior from **Fig 1 (first from the left)** implies that I am new to the planet o
 
 Prior from **Fig 2 (second from the left)** suggests that I am more like to believe that ghosts don't exist; there are, however, some odds of ghosts.
 
-Similarly, Prior from ** Fig 3** suggests that there is a 50/50 possibility of ghost.
+Similarly, Prior from **Fig 3** suggests that there is a 50/50 possibility of ghost.
 
 Prior from **Fig 4** suggests that "I have greater beliefs on ghosts," but I'm not sure.
 
