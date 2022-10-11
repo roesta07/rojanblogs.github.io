@@ -25,7 +25,7 @@ Karl Popper refers to this occurrence as the [Idea of Falsification](https://en.
 $$ P(\theta|evidence)=\frac{P(\theta)*P(evidence|\theta)}{P(evidence)} $$
 
 If you peek at the right side of our equation; this side incorporates both
-our existing beliefs and the likelihood of the evidence (data); P ($ \theta $) is our existing belief on $\theta$ which is called a Prior and P($evidence|\theta)$ is our likelihood of the evidence. Thus the left side P($\theta| evidence$ )is our updated belief on $\theta$. For instance,back to the above analogy; $\theta$ can be the believed form of the Earth today.
+our existing beliefs and the likelihood of the evidence (data); P ( $ \theta $ ) is our existing belief on $ \theta $ which is called a Prior and P($evidence|\theta)$ is our likelihood of the evidence. Thus the left side P($\theta| evidence$ )is our updated belief on $\theta$. For instance,back to the above analogy; $\theta$ can be the believed form of the Earth today.
 
 
 ## Updating Beliefs about Ghost!! Just a toy example}
