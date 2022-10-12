@@ -16,12 +16,7 @@
 title: Wiseyak Newsletter
 email: info@wiseyak.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Wiseyak is an AI-based healthcare technology company operating globally with bases in Bellevue, Washington, USA and Kathmandu, Nepal. 
-  Our vision is to render quality healthcare accessible for everyone around the globe.
-  We specialize in Artificial Intelligence and Machine Learning techniques and offer unique solutions to clinical decision support across 
-  the healthcare industry in a unified platform – for hospitals, doctors, healthcare workers, research organizations, pharmaceuticals, governmental
-  and non-governmental organizations as well as international organizations.
-  
+  Wiseyak is an AI-based healthcare technology company operating globally with bases in Bellevue, Washington, USA and Kathmandu, Nepal.   
 twitter_username: WiseYak
 github_username: username
 minimal_mistakes_skin: contrast
