@@ -73,7 +73,7 @@ The process of updating continues until day 9, which is the present. Using the s
 
 <div class="center" ><img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/bayesian_updating/change.png" width="500" class="inline"> </div>
 
-*Fig: Updated Beliefs*{: .text-center}
+Fig: Updated Beliefs{: .text-center}
 
 The black dotted distribution reflects our initial prior belief regarding ghosts; however, the black solid line shows our current beliefs, which lean more toward a 50/50 . Our understanding of the ghost has been updated as a result of our experience, and based on the updated distribution, it appears that it is time to call the priests.
 
