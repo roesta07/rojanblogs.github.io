@@ -60,7 +60,7 @@ Let's now enter the monitoring phase and begin gathering and documenting each of
 
 
 <div class="center" ><img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/bayesian_updating/updating.png" width="720" class="inline"> </div>
-*Fig: Updating our Beliefs*
+*Fig: Updating our Beliefs*{: .text-center}
 
 
 We begin with our preexisting belief about the ghost; if we have any paranormal experiences, such as discovering someone under the bed, we then shift our beliefs to the right (p=1), but because it is a bayesian shift, we obtain the full distribution. For instance, on Day 2, the dashed distribution represents our prior distribution whereas the solid-line distribution represents our updated belief also as known as Posterior distribution. But an intriguing fact is that we will use this posterior distribution as our prior distribution on day 3 while we monitor the data and revise our opinions.
@@ -73,7 +73,7 @@ The process of updating continues until day 9, which is the present. Using the s
 
 <div class="center" ><img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/bayesian_updating/change.png" width="500" class="inline"> </div>
 
-*Fig: Updated Beliefs*
+*Fig: Updated Beliefs*{: .text-center}
 
 The black dotted distribution reflects our initial prior belief regarding ghosts; however, the black solid line shows our current beliefs, which lean more toward a 50/50 . Our understanding of the ghost has been updated as a result of our experience, and based on the updated distribution, it appears that it is time to call the priests.
 
