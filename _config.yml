@@ -13,20 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wiseletters
+title: benslack19
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Musings on education, neuroscience, and data science.
-#twitter_username: username  
-twitter_username: WiseYak
-#github_username: username
-minimal_mistakes_skin: contrast
-search: false
-
+#twitter_username: username
+github_username: benslack19
+# minimal_mistakes_skin: default
+minimal_mistakes_skin: air
+search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.22.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -58,31 +57,50 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wiseyak"
-  avatar : "/assets/images/wiseyak-small.png"
-  bio    : "Unleashing the Power of AI in"
+  name   : "Ben Lacar"
+  avatar : "/assets/surfingBW.png"
+  bio    : "data+science+education"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://wiseyak.com/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/wiseyak/"
-#    - label: "Linkedin"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://np.linkedin.com/company/wiseyakinc"
+      url: "https://benslack19.github.io"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benslack19"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lacar/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/wiseyak"
-#    - label: "Linkedin"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://np.linkedin.com/company/wiseyakinc"
- #   - label: "Instagram"
- #     icon: "fab fa-fw fa-instagram"
- #     url: "https://instagram.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benslack19"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lacar/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
+
+# Collections
+collections:
+  # mynotes:
+  #   output: true
+  #   permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+    author_profile: true
 
 defaults:
   # _posts
@@ -91,25 +109,47 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
-      
-twitter:
-  username: "WiseYak"
+      author_profile: false
 
- category_archive:
-   type: liquid
-   path: /categories/
- tag_archive:
-   type: liquid
-   path: /tags/
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-167983398-1
+
+# Comments - TBD
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "your-disqus-shortname"
