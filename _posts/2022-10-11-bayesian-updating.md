@@ -33,7 +33,7 @@ But how could we reflect these prevailing notions  mathematically; Using Bayesia
 
 
 <div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/bayesian_updating/prior_distributions.png?raw=true" width="820" class="inline"> </div>
-*Fig: Prior Distributions*
+<div class="text-center"> *Fig: Prior Distributions* <\div>
 
 
 The above plots are some of our prior distribution which will be explained below, the shaded region indicates that the mass of probability is in that region.
