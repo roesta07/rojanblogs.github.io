@@ -9,7 +9,7 @@ tags:
   - BI
   - Geolocation
   - python
-  - Power BI 
+  - Power BI
   - Plus code
   - Ecommerce
   - Food Delivery
