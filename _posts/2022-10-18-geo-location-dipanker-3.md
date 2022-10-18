@@ -16,7 +16,7 @@ tags:
   - Cargo
 ---
 
-## Plus codes
+# Plus codes
 
 The Open Location Code (OLC) is a geocode system for identifying an area anywhere on the Earth. Location codes created by the OLC system are referred to as "plus codes". The plus codes are alphanumeric character strings that can be used as address encodings for people or places that do not have addresses and may be especially useful in places where there is no formal system to identify buildings, such as street names, house numbers, and post codes. According to google, billions of people live without an address or an address with low accuracy. 
 
@@ -33,8 +33,6 @@ Plus codes are increasing being accepted as postal addresses in many parts of th
 Plus Codes are open source and developed by Google Zurich. Hence, a lot of ecommerce, delivery and other services that use geo location use plus codes to encode addresses in their applications. Ecommerce platforms may use geolocations to identify areas of delivery of customers as well as vendor store locations. Food delivery platforms might use geolocations for similar purposes such as locating their restaurants and food delivery address of their customers. Likewise, cargos, movers and shifters might want to know specific geo-positions of their pickup and drop-off locations. 
 
 The issue occurs when one tries to visualize plus codes in Power BI in order to map these geo locations as a part of their analysis. As of current, unlike longitude and latitude, there is no way to directly visualize plus codes in Power BI. (However, there is a huge possibility that they might be integrated in future versions of Power BI) Therefore, one needs to convert to the plus codes to longitude latitude to plot them in Power BI.
-
-
 
 <div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/PlusCodesnPowerBI.png?raw=true" width="820" class="inline"> </div>
 
