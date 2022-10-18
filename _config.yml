@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: benslack19
+title: Wise Yak
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Musings on education, neuroscience, and data science.
+  Unleashing the Power of Ai.
 #twitter_username: username
-github_username: benslack19
+github_username: Wise Yak
 # minimal_mistakes_skin: default
 minimal_mistakes_skin: air
 search: true
@@ -57,37 +57,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ben Lacar"
-  avatar : "/assets/surfingBW.png"
-  bio    : "data+science+education"
+  name   : "Wise Yak"
+  avatar : "/Users/roesta/Desktop/Projects/wiseletters/assets/images/wiseyak-small.png"
+  bio    : "Unleashing the power of AI"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://benslack19.github.io"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/benslack19"
+      url: "https://wiseyak.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/wiseyak?lang=en"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/lacar/"
+      url: "https://np.linkedin.com/company/wiseyakinc"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/benslack19"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/wiseyak?lang=en"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/benslack19"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/lacar/"
+      url: "https://np.linkedin.com/company/wiseyakinc"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -143,10 +143,10 @@ tag_archive:
   path: /tags/
 
 # Analytics
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-167983398-1
+# analytics:
+#   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          : UA-167983398-1
 
 # Comments - TBD
 # comments:
