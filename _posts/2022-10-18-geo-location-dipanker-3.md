@@ -45,7 +45,6 @@ The issue occurs when one tries to visualize plus codes in Power BI in order to 
 At Wiseyak, we have developed a simple python program (please contact us) to convert plus codes to longitudes and latitudes. This is done using by mapping every single digit of the plus code to corresponding degree in longitude and latitude. With the help of this conversion, we can easily plot the converted longitudes and latitudes in Power BI. 
 
 
-
 <div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/Convert1.png?raw=true" width="820" class="inline"> </div>
 
 <div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/Convert2.png?raw=true" width="820" class="inline"> </div>
