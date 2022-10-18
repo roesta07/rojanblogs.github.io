@@ -13,7 +13,7 @@ tags:
   - Plus code
   - Ecommerce
   - Food Delivery
-  - Cargo,
+  - Cargo
 ---
 
 ## Plus codes
