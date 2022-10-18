@@ -26,7 +26,7 @@ Plus codes are convenient as they are derived from latitude and longitude coordi
 
 Plus codes are increasing being accepted as postal addresses in many parts of the world.
 
-<div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/PlusCodes.png?raw=true" width="820" class="inline"> </div>
+<div > <img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/3-geo-location/PlusCodes.png?raw=true" width="820" class="inline"> </div>
 
 ## Plus Codes and Power BI
 
@@ -35,7 +35,7 @@ Plus Codes are open source and developed by Google Zurich. Hence, a lot of ecomm
 The issue occurs when one tries to visualize plus codes in Power BI in order to map these geo locations as a part of their analysis. As of current, unlike longitude and latitude, there is no way to directly visualize plus codes in Power BI. (However, there is a huge possibility that they might be integrated in future versions of Power BI) Therefore, one needs to convert to the plus codes to longitude latitude to plot them in Power BI.
     
 
-<div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/PlusCodesnPowerBI.png?raw=true" width="820" class="inline"> </div>
+<div > <img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/3-geo-location/PlusCodesnPowerBI.png?raw=true" width="820" class="inline"> </div>
 
 ## Converting Plus Codes to Longitudes and Latitudes
 
@@ -44,4 +44,4 @@ At Wiseyak, we have developed a simple python program (please contact us) to con
 
 <div > <img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/3-geo-location/Convert1.png" width="820" class="inline"> </div>
 
-<div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/Convert2.png?raw=true" width="820" class="inline"> </div>
+<div > <img src="https://raw.githubusercontent.com/roesta07/wiseletters/master/assets/images/3-geo-location/Convert2.png?raw=true" width="820" class="inline"> </div>
