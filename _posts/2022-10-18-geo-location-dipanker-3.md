@@ -26,9 +26,7 @@ Plus codes are convenient as they are derived from latitude and longitude coordi
 
 Plus codes are increasing being accepted as postal addresses in many parts of the world.
 
-![Happy girl with plus code address](PlusCodes.png "")
-
-Source: <https://maps.google.com/pluscodes/> 
+<div > <img src="https://github.com/roesta07/wiseletters/blob/ca9ac4c29f1433821af8b308f6d707bbfedd12be/assets/images/3-geo-location/PlusCodes.png?raw=true" width="820" class="inline"> </div>
 
 ## Plus Codes and Power BI
 
