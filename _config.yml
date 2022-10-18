@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Wise Yak"
-  avatar : "/Users/roesta/Desktop/Projects/wiseletters/assets/images/wiseyak-small.png"
+  avatar : "/assets/images/wiseyak-small.png"
   bio    : "Unleashing the power of AI"
   links:
     - label: "Website"
